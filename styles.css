@@ -1,0 +1,40 @@
+html{
+    background-color: #EA5455;
+}
+
+.background{
+    background-color: #EA5455;
+}
+
+.main-body{
+    background-color: #FFD460;
+    margin: 40px;
+    margin-top: 20px;
+    border: black 5px solid;
+    border-radius: 10px;
+}
+
+.main-img-border{
+    border: #EA5455 1px solid;
+    border-radius: 10px;
+}
+
+.main-btn-style{
+    background-color: #2D4059 !important;
+    color: aliceblue !important;
+}
+
+.main-btn-style:hover{
+    background-color: #F07B3F !important;
+    color: black !important;
+    box-shadow: 8px 10px 1px black;
+}
+
+h2{
+    text-align: center;
+}
+
+.footer-styling{
+    background-color: #2D4059;
+    color: azure;
+}
